@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "234512144441",
+    "project_id": "fix-my-nest-dbaea",
+    "storage_bucket": "fix-my-nest-dbaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234512144441:android:ff5e9f5ef1c9cb3006d5e8",
+        "android_client_info": {
+          "package_name": "com.example.fix_my_nest_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgEOArHRk6jyfm2YfKUl9kg7cSaEGIT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234512144441:android:f3792a9b3c93310106d5e8",
+        "android_client_info": {
+          "package_name": "com.example.fix_my_nest_worker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgEOArHRk6jyfm2YfKUl9kg7cSaEGIT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234512144441:android:54b08a5d207d369d06d5e8",
+        "android_client_info": {
+          "package_name": "com.example.webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgEOArHRk6jyfm2YfKUl9kg7cSaEGIT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
